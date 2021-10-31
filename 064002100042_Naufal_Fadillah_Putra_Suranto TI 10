@@ -1,0 +1,18 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Oct 31 10:38:53 2021
+
+@author: Naufal Fadillah
+NAME  : Naufal Fadillah Putra Suranto 
+NIM    : 064002100042
+"""
+a = ("@@   @  @@@@  @   @  @@@@  @@@@  @") 
+b = ("@ @  @  @  @  @   @  @     @  @  @") 
+c = ("@  @ @  @@@@  @   @  @@@@  @@@@  @")    
+d = ("@   @@  @  @  @@@@@  @     @  @  @@@")
+
+print(a)
+print(b)
+print(c)
+print(d)
+
